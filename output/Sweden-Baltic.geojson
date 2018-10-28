@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              66.116068,
+              9.711914
+            ],
+            [
+              66.116068,
+              30.849609
+            ],
+            [
+              53.252069,
+              30.849609
+            ],
+            [
+              53.252069,
+              9.711914
+            ],
+            [
+              66.116068,
+              9.711914
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ID": "e18e62ff25634a05adae79307acc065b",
+        "Sub_Region_Name": "Baltic",
+        "Region_Name": "Sweden"
+      }
+    }
+  ]
+}
