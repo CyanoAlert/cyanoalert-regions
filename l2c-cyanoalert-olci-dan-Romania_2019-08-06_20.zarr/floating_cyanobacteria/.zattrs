@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "spatial_resampling": "Nearest",
+    "valid_pixel_expression": "valid_mask_floating_and_immersed"
+}

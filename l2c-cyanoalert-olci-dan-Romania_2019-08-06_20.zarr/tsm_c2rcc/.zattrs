@@ -1,0 +1,12 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "long_name": "Total suspended matter dry weight concentration",
+    "original_name": "conc_tsm",
+    "spatial_resampling": "Nearest",
+    "units": "g m^-3",
+    "valid_pixel_expression": "valid_mask_c2rcc"
+}

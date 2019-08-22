@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "long_name": "secchi depth swedish algo 1",
+    "spatial_resampling": "Nearest",
+    "units": "m",
+    "valid_pixel_expression": "valid_mask_c2rcc"
+}

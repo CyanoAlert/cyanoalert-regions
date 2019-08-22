@@ -1,0 +1,12 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "long_name": "Chlorophylll concentration",
+    "original_name": "conc_chl",
+    "spatial_resampling": "Nearest",
+    "units": "mg m^-3",
+    "valid_pixel_expression": "valid_mask_c2rcc"
+}

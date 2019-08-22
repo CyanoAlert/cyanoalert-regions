@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "long_name": "Depth of the water column from which 90% of the water leaving irradiance comes from",
+    "spatial_resampling": "Nearest",
+    "units": "m",
+    "valid_pixel_expression": "valid_mask_c2rcc"
+}

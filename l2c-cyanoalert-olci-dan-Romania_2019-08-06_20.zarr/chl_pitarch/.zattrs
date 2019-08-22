@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "lat",
+        "lon"
+    ],
+    "spatial_resampling": "Nearest",
+    "units": "mg/m^3",
+    "valid_pixel_expression": "valid_mask_mph"
+}
